@@ -1,4 +1,5 @@
 # vera's downloader
+![Static Badge](https://img.shields.io/badge/python-%203.12.6-green)
 
 # what is this used for?
 
