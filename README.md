@@ -1,6 +1,3 @@
-# vera's downloader
-![Static Badge](https://img.shields.io/badge/python-%203.12.6-green?link=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-3126%2F)
-
 # what is this used for?
 
 vera's downloader is a tool used to download videos and audio files off of sites like youtube, soundcloud, spotify, etc.
