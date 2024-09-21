@@ -10,6 +10,8 @@ also supports playlists for youtube but i dont know about soundcloud or spotify 
 
 To use this tool u have to install python 3.12.6 and install the pips below
 
+To see the percentage of a download just look in the terminal / command prompt it opens and u can see it
+
 pip install yt-dlp,
 
 pip install customtkinter
