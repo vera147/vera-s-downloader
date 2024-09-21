@@ -1,6 +1,6 @@
 # what is this used for?
 
-vera's downloader is a tool used to download videos and audio files off of sites like as youtube, soundcloud, spotify, etc.
+vera's downloader is a tool used to download videos and audio files off of sites like youtube, soundcloud, spotify, etc.
 
 u can select a custom file path in settings but by default it uses ur downloads folder.
 
